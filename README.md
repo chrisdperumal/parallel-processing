@@ -1,2 +1,2 @@
 # parallel-processing
-Experiments in Parallel Processing
+Experiments in Parallel Processing with Python
